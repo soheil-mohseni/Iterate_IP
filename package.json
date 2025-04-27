@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "iterate_ip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ip-cidr": "^4.0.2",
+    "ua-parser-js": "^2.0.0"
+  }
+}
